@@ -26,6 +26,11 @@ hard/ → Advanced SQL problems
 | Duplicate Emails | Easy | GROUP BY | ✅ |
 | Customers Who Never Order | Easy | LEFT JOIN | ✅ |
 | Not Boring Movies | Easy | ORDER BY | ✅ |
+| Big Countries | Easy | WHERE, OR | ✅ |
+| Rising Temperature | Easy | SUBQUERY, DATE Comparison  | ✅ |
+| Delete Duplicate Emails | Easy | DELETE, SUBQUERY, GROUP BY | ✅ |
+| Customers Placing the Largest Number of Orders | Easy | GROUP BY, COUNT, ORDER BY | ✅ |
+| Classess With at Least 5 Students | Easy | GROUP BY, HAVING | ✅ |
 
 ---
 
@@ -36,6 +41,9 @@ hard/ → Advanced SQL problems
 - JOIN
 - GROUP BY
 - ORDER BY
+- HAVING
+- SUBQUERY
+- DELETE
 
 
 ---
