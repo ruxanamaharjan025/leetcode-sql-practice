@@ -44,6 +44,7 @@ hard/ → Advanced SQL problems
 - HAVING
 - SUBQUERY
 - DELETE
+- CASE
 
 
 ---
